@@ -222,6 +222,12 @@
       "strength": 1
     },
     {
+      "coordinates": [980, 770],
+      "flag": "Cascadia",
+      "name": "Cascadia",
+      "strength": 1
+    },
+    {
       "coordinates": [1752, 716],
       "flag": "Pennsylvania",
       "name": "Pennsylvania",
