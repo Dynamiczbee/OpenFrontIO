@@ -12,6 +12,7 @@ export const BOT_NAME_PREFIXES = [
   "Thracian",
   "Dacian",
   "Illyrian",
+  "Cascadian",
   "Median",
   "Chaldean",
   "Roman",
